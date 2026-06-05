@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c025b4487bfbb41fca186c7d9d6e18a5, type: 3}
-  m_Name: Orc_Data
-  m_EditorClassIdentifier: 
-  card_name: Orc
-  description: Burly. Smells like pond water.
-  health: 20
-  cost: 2
-  damage: 40
-  sprite: {fileID: -3928262809992104817, guid: 7363e19bf0a7a4328ae1ece2fa911c91, type: 3}
+  m_Name: Elf_Data
+  m_EditorClassIdentifier: Assembly-CSharp::Card_data
+  card_name: Elf
+  description: Great at detail work, but everything is tiny
+  health: 30
+  cost: 3
+  damage: 20
+  sprite: {fileID: -5798630439983371316, guid: 3b50da95f5a41401c86b86c6f320d46b, type: 3}

@@ -180,7 +180,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 21.070047
+  orthographic size: 49.881107
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -205,7 +205,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.9, y: -0.7, z: -10}
+  m_LocalPosition: {x: 71.2, y: 38.3, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -253,13 +253,14 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 33e2634b0f2e841eabb970bbf404ddca, type: 2}
   player_hand: []
   ai_hand: []
+  ai_hand_objs: []
   discard_pile: []
   player_hand_spawnpoint: {x: -200, y: 50, z: 0}
-  ai_hand_spawnpoint: {x: 0, y: 0, z: 0}
+  ai_hand_spawnpoint: {x: -100, y: 325, z: 0}
   offset: {x: 0, y: 0, z: 0}
   canvas: {fileID: 0}
   blank: {fileID: 4608709814338197990, guid: 99ef4bccd68e84d9ba6e7c8051daf70b, type: 3}
-  ai_card: {fileID: 324650002870416567, guid: 16ac9e3cf273044c69fb4d6eb17d83f2, type: 3}
+  ai_card: {fileID: 4608709814338197990, guid: 3fe7ce85f8be041febcb62a6d58c9c1c, type: 3}
 --- !u!4 &622756966
 Transform:
   m_ObjectHideFlags: 0
